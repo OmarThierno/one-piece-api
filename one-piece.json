@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Luffy",
+    "fullName": "Monkey D. Luffy",
+    "Alias": "",
+    "epithet": "Straw Hat Luffy",
+    "ability": "rubber man",
+    "dream": "become king of pirates",
+    "role": "captain",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/474x\/ee\/87\/d8\/ee87d8be406a16e8649217baa79505c2.jpg",
+    "photo": "https:\/\/i.pinimg.com\/564x\/db\/f9\/99\/dbf999ef1a25f7d118762edb87b4233b.jpg"
+  },
+  {
+    "name": "Zoro",
+    "fullName": "Roronoa Zoro",
+    "Alias": "",
+    "epithet": "Pirate Hunter Zoro",
+    "ability": "swordsman",
+    "dream": "become the best swordsman in the world",
+    "role": "vice captain",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/474x\/92\/ec\/dd\/92ecdde1c1e7d7c02e1131b1614ccacc.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/6f\/a5\/a0\/6fa5a02a369903b844ff927aa55a5237.jpg"
+  },
+  {
+    "name": "Nami",
+    "fullName": "",
+    "Alias": "",
+    "epithet": "the thieving cat",
+    "ability": "check climate",
+    "dream": "draw the world map",
+    "role": "Navigator",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/736x\/54\/da\/fa\/54dafa6c3b306b3185c093b8ec061f6d.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/08\/b3\/9c\/08b39c96849da186f7da1ef0ff9aba80.jpg"
+  },
+  {
+    "name": "Usopp",
+    "fullName": "",
+    "Alias": "Sogeking",
+    "epithet": "King of Snipers",
+    "ability": "Snipers",
+    "dream": "become a brave warrior",
+    "role": "snipers",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/474x\/36\/57\/3b\/36573b9d77c3916d6b5aec3966c5a57a.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/9d\/7d\/62\/9d7d62db469919c95ed78d1493bdf8b8.jpg"
+  },
+  {
+    "name": "Sanji",
+    "fullName": "Vinsmoke Sanji",
+    "Alias": "Mr. Prince",
+    "epithet": "Black Leg",
+    "ability": "",
+    "dream": "find All blue",
+    "role": "Chef on board",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/474x\/0d\/44\/51\/0d445187112397c74c033511263e6e6c.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/60\/0a\/af\/600aafa5f3c58fd0df504c75c0652a61.jpg"
+  },
+  {
+    "name": "Chopper",
+    "fullName": "Tony Tony Chopper",
+    "Alias": "Chopa-emon",
+    "epithet": "Cotton Candy Lover",
+    "ability": "Human-Human Fruit",
+    "dream": "",
+    "role": "Doctor on board",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/564x\/46\/c9\/05\/46c9056ab320ddbc85dc89d6b9e72990.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/90\/f4\/a5\/90f4a52defc002858d5f97c2bd6f3b15.jpg"
+  },
+  {
+    "name": "Robin",
+    "fullName": "",
+    "Alias": "Miss All Sunday",
+    "epithet": "Devil Child",
+    "ability": "Flower-Flower Fruit",
+    "dream": "read the story of 100 years of vacuum",
+    "role": "",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/564x\/f0\/10\/43\/f01043e0cd91f050f863227498aaa7c7.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/96\/4a\/b2\/964ab2aa47a2a8728055b7fda2e40de9.jpg"
+  },
+  {
+    "name": "Franky",
+    "fullName": "Cutty Flam",
+    "Alias": "Fra-nosuke",
+    "epithet": "Iron Man",
+    "ability": "Cyborg",
+    "dream": "",
+    "role": "carpenter on board",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/474x\/06\/40\/23\/0640232159f287ee47e1035c9a649c41.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/a2\/f6\/96\/a2f6964834e9f32cecd6ddaad4c13a86.jpg"
+  },
+  {
+    "name": "Brook",
+    "fullName": "",
+    "Alias": "The Starving Skeleton",
+    "epithet": "Humming Brook",
+    "ability": "Revive-Revive Fruit",
+    "dream": "",
+    "role": "musician on board",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/474x\/7b\/0b\/9a\/7b0b9a3d501f6e738d7f6865c2ca3968.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/27\/8b\/f7\/278bf7f9c17efe61e96d766db76d6203.jpg"
+  },
+  {
+    "name": "Jimbei",
+    "fullName": "",
+    "Alias": "",
+    "epithet": "Knight of the Sea",
+    "ability": "Fishman karate",
+    "dream": "",
+    "role": "helmsman",
+    "bestTechniques": [],
+    "wantedPoster": "https:\/\/i.pinimg.com\/474x\/27\/fc\/11\/27fc119bbe1389ddcd0728945d595c1f.jpg",
+    "photo": "https:\/\/i.pinimg.com\/474x\/c3\/93\/02\/c39302113f284a2b0592ef71dc080213.jpg"
+  }
+]
